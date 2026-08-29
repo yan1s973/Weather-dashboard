@@ -6,7 +6,7 @@ const searchForm = $("#search-form");
 
 // ============================================================
 // 🔑 METS TA CLÉ API OPENWEATHER ICI
-const API_KEY = "7b544cafc8cf12ffb67c1ebf33c42cc3";
+const API_KEY = "";
 // ============================================================
 
 // Reusable modular function to read data from Local Storage
